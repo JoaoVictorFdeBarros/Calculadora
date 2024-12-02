@@ -1,0 +1,24 @@
+.Result{
+    color:white;
+    background-color: black;
+    padding: 2vh 0vh;
+    height: fit-content;
+
+    border-radius: 0.5vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.Result .Operation{
+    padding-left: 50vh;
+    padding-right: 2vh;
+    font-size: x-large;
+}
+
+.Result .Output{
+    padding-left: 2vh;
+    padding-right: 10vh;
+    font-size: xx-large;
+}

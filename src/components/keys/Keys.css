@@ -1,0 +1,17 @@
+.Key{
+    width: fit-content;
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    width: 10vh;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5vh;
+}
+
+.Key:hover{
+    background-color: #222;
+}
